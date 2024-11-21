@@ -1,1 +1,2 @@
 # CMPT-477-Ass3
+The project uses Dafny to implement and verify programs, ensuring their correctness through formal proofs. Tasks include verifying existing algorithms (element search and arithmetic sum), and implementing verified methods for finding the minimum value in an array and sorting coins. The repository includes the Dafny source code and a detailed report explaining the design choices, verification strategies, and challenges encountered.
